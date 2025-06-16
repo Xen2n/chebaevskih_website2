@@ -5,3 +5,11 @@ h1 {
     text-transform: uppercase;
 }
 
+#portal-link {
+    text-decoration: none;
+    color: #0066cc;
+}
+
+#portal-link:hover {
+    color: #e74c3c;
+}
